@@ -1,5 +1,7 @@
 # 🐧 Emilio Ortiz
 
+**`Backend Developer | Computer Science Student | Open Source Advocate`**
+
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student from the University of Guadalajara, currently working as a Backend Developer Intern. I'm particularly enthusiastic about open-source software and am a dedicated Linux user. Here you'll find projects showcasing my interests and skills in backend development, virtualization, operating systems, containers, and cloud computing.
 
 ---
