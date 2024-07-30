@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student from
 - 🎓 **Education**: Computer Engineering Student at the University of Guadalajara
 - 💼 **Current Role**: Backend Developer Intern
 - 🌐 **Languages**: Fluent in Spanish and English
-- 🌱 **Currently Learning**: Cloud Security Certification
+- 🌱 **Currently Learning**: Cloud Security Certification, ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+
 
 ---
 
@@ -20,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student from
 ### Backend Development
 - **Languages**: 
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
@@ -28,10 +28,13 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student from
   ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 
-- **Tools**: 
+- **Databases**: 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-  ![GORM](https://img.shields.io/badge/-GORM-3776AB?style=flat)
-  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON%20web%20tokens)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+- **Tools**:
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 ### 🖥️ Operating Systems
 - ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=flat)
