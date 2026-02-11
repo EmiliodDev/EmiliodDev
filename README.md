@@ -1,6 +1,6 @@
 # 🐧 Emilio Ortiz
 
-**`Lead Software Engineer | Backend Specialist | Systems Architect`**
+**`Software Engineer | Backend Specialist | Systems Architect`**
 
 Welcome! I'm Emilio Ortiz, a software engineer passionate about building **scalable, maintainable, and secure systems**. With experience leading the development of **ERP, CRM, and PoS platforms**, I focus on backend engineering, database design, and technical leadership.  
 My philosophy: *clarity, performance, and sustainability in every line of code.*
