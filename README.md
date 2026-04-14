@@ -1,69 +1,83 @@
-# 🐧 Emilio Ortiz
+<div align="center">
 
-**`Software Engineer | Backend Specialist | Systems Architect`**
+```
+╔═══════════════════════════════════════╗
+║   Emilio Ortiz · Backend Engineer     ║
+╚═══════════════════════════════════════╝
+```
 
-Welcome! I'm Emilio Ortiz, a software engineer passionate about building **scalable, maintainable, and secure systems**. With experience leading the development of **ERP, CRM, and PoS platforms**, I focus on backend engineering, database design, and technical leadership.  
-My philosophy: *clarity, performance, and sustainability in every line of code.*
-
----
-
-## 🚀 About Me
-
-- 💼 **Current Role**: Lead Software Engineer at Fives Consulting  
-- 🎓 **Education**: Computer Engineering, UMOV Academy 
-- 🌐 **Languages**: Fluent in Spanish and English  
-- 🔒 **Focus Areas**: Backend systems, databases, software architecture, and security  
-- 🌱 **Currently Exploring**: Embedded SDK design, advanced PostgreSQL, Go networking projects  
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+### about me
 
-### Backend & Systems
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+```go
+package main
 
-**Frameworks & Libraries**  
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat) 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+type Engineer struct {
+    Name       string
+    Focus      string
+    Stack      []string
+    Status     string
+    Learning   string
+    NextMove   string
+}
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+func main() {
+    me := Engineer{
+        Name:     "Emilio Ortiz",
+        Focus:    "Backend Engineering",
+        Stack:    []string{"Go", "Node.js", "TypeScript", "React", "Next.js"},
+        Status:   "Junior · ~3 years · finishing CS degree",
+        Learning: "Systems design, Go internals",
+        NextMove: "Cybersecurity",
+    }
 
-### Cloud, Containers & Virtualization
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat)
-
-### Operating Systems
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)
-![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=flat)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat)
-
-### Version Control & Dev Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?logo=docker&logoColor=white&style=flat)
+    _ = me // still building...
+}
+```
 
 ---
 
-## 📈 GitHub Stats
+### stack
 
-![Emilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmiliodDev&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmiliodDev&layout=compact&theme=dracula)
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 🎯 Goals
+### stats
 
-- Build high-performance systems with Go, PostgreSQL, and Rust.
-- Contribute to **open-source projects** and share technical knowledge.  
-- Keep improving software quality through **clean architecture and CI/CD pipelines**.  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-rho-one-90.vercel.app/api?username=EmiliodDev&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=888888&hide=prs)
+
+![Top Languages](https://github-readme-stats-rho-one-90.vercel.app/api/top-langs/?username=EmiliodDev&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=888888)
+
+</div>
 
 ---
 
-⚡ *Always aiming for clarity, performance, and long-term sustainability in software development.*  
+### currently
+
+- 🔧 &nbsp; building backend services with **Go**
+- 📚 &nbsp; finishing my CS degree (~1 year left)
+- 🔐 &nbsp; exploring **cybersecurity** on the side
+- 📬 &nbsp; open to backend / fullstack opportunities
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiliod-ortiz)
+
+
+</div>
