@@ -58,9 +58,9 @@ func main() {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-rho-one-90.vercel.app/api?username=EmiliodDev&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=888888&hide=prs)
+![GitHub Stats](https://github-readme-stats-rho-one-90.vercel.app/api?username=su1uv&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=888888&hide=prs)
 
-![Top Languages](https://github-readme-stats-rho-one-90.vercel.app/api/top-langs/?username=EmiliodDev&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=888888)
+![Top Languages](https://github-readme-stats-rho-one-90.vercel.app/api/top-langs/?username=su1uv&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=888888)
 
 </div>
 
